@@ -48,7 +48,7 @@ def summationFormula(k):
 # Driver Code
 if __name__ == "__main__":
 
-    with open("input05 copy.txt") as f:
+    with open("input05.txt") as f:
         lines = f.readlines()
         lines = (line for line in lines if line)
 
