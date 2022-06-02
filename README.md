@@ -1,4 +1,4 @@
 ## Algorithms-and-Complexity
 Assignment #1
 
-<strong>Contributors :Erald Caka(me) and Ervin Balla</strong>
+<strong>Contributors :Erald Caka and Ervin Balla</strong>
