@@ -12,59 +12,58 @@ Important Code Snippets
 
 Pseudocode for the Algorithm
 -
-	```diff
-	+ Open file (“filename”) as f
+```diff
++ Open file (“filename”) as f
 
-	+ lines = f.readlines()
++ lines = f.readlines()
 
-	+ list=[]
++ list=[]
 
-        + for line in lines
+    + for line in lines
 
-	+ list.append(line.split())
-	
-	+ end for
++ list.append(line.split())
 
-	+ n=list[0][0]
++ end for
 
-	+ p=list[0][1]
++ n=list[0][0]
 
-	+ g=Graph(n)
++ p=list[0][1]
 
-		+ for i in range(1,p+1):
++ g=Graph(n)
 
-        		+ g.addEdge(int(list[i][0]),int(list[i][1]))
-	
-			+ end for
-			
+	+ for i in range(1,p+1):
 
-	+ cc = g.connectedComponents()
+    		+ g.addEdge(int(list[i][0]),int(list[i][1]))
 
-	+ arraySingerPerState = []
-
-	+ notAllowedDuets = 0
-
-		+ for x in cc:
-
-        		+ arraySingerPerState.append(len(x))
-	
-			+ end for
-			
-
-		+ for y in arraySingerPerState:
-
-        		+ summationFormula(y)
+		+ end for
 		
-        		+ notAllowedDuets = notAllowedDuets + summationFormula(y)
+
++ cc = g.connectedComponents()
+
++ arraySingerPerState = []
+
++ notAllowedDuets = 0
+
+	+ for x in cc:
+
+    		+ arraySingerPerState.append(len(x))
+
+		+ end for
 		
-			+ end for
-			
 
-	+ AllowedDuets = summationFormula(n)-notAllowedDuets
+	+ for y in arraySingerPerState:
 
-	+ print(int(AllowedDuets)) 
-	```
+    		+ summationFormula(y)
 	
+    		+ notAllowedDuets = notAllowedDuets + summationFormula(y)
+	
+		+ end for
+		
+
++ AllowedDuets = summationFormula(n)-notAllowedDuets
+
++ print(int(AllowedDuets)) 
+```
 
 
 Examples
