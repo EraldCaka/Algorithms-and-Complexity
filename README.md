@@ -23,7 +23,7 @@ Pseudocode for the Algorithm
 
 + list.append(line.split())
 
-+ end for
++end for
 
 + n=list[0][0]
 
