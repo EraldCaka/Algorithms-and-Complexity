@@ -92,7 +92,7 @@ if __name__ == "__main__":
 
 # Assignment 1
 # Algorithms & Complexity
-# Worked by Ervin Balla & Erald Caka
+# Worked by Erald Caka and Ervin Balla
 
 # The implementation of the Graph class, DFS function and connected 
 # component function were retrieved by us from a code created by Abhishek Valsan
