@@ -29,4 +29,4 @@ Output5
 ![output5](https://user-images.githubusercontent.com/96385473/171832140-27589112-ffc2-4c1e-83c6-404a2d3e684b.png)
 
 --------
-<strong>Contributors :Credit: [Erald Caka](https://github.com/HidekiNatsumi) and Credit: [Ervin Balla](https://github.com/ViniCS2001)</strong>
+<strong>Contributors :[Erald Caka](https://github.com/HidekiNatsumi) and [Ervin Balla](https://github.com/ViniCS2001)</strong>
