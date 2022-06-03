@@ -8,7 +8,7 @@ Important Code Snippets
 
 ![graphTRUE](https://user-images.githubusercontent.com/96385473/171694466-f4f1ab51-7912-44f2-98f5-8e7566e14daf.png)
 
-<style>H1{color:Blue;}</style>
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
 
 Pseudocode for the Algorithm
 -
