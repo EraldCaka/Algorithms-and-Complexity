@@ -10,7 +10,7 @@ Important Code Snippets
 
 
 <strong>Some Results</strong>
---------
+<hr style="border:2px solid gray">
 
 Output3
 ---
