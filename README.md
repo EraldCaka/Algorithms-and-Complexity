@@ -2,7 +2,7 @@
 
 <strong>A solution to a problem that requires the usage of graphs ,nodes and dfs algorithm</strong>
 
-Important Code Snippets 
++Important Code Snippets 
 ----
 ![Components](https://user-images.githubusercontent.com/96385473/171694898-37da4e67-fd30-4ad4-97c1-6c5516a2f3c0.png)
 -
