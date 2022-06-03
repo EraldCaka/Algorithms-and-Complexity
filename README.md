@@ -10,7 +10,7 @@ Important Code Snippets
 ----
 
 <strong>Some Results</strong>
-------------
+--------
 
 Output3
 ---
