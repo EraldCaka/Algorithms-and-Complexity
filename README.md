@@ -13,14 +13,18 @@ Some Results
 ----
 
 Output3
+-
 -![Uploading output3.png…]()
 -
 
 Output4
+-
 ![output4](https://user-images.githubusercontent.com/96385473/171832342-1e1ce98d-fa20-4e55-bcb3-33e315bf41cf.png)
 -
 
 Output5
+-
 ![output5](https://user-images.githubusercontent.com/96385473/171832140-27589112-ffc2-4c1e-83c6-404a2d3e684b.png)
+-
 --------
 <strong>Contributors :Erald Caka and Ervin Balla</strong>
