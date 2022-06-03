@@ -11,7 +11,7 @@ Important Code Snippets
 Pseudocode for the Algorithm
 -
 
-	<span style="color: green">Open file (“filename”) as f
+	<span style="color: green"> Open file (“filename”) as f
 
 	lines = f.readlines()
 
@@ -60,7 +60,7 @@ Pseudocode for the Algorithm
 
 	AllowedDuets = summationFormula(n)-notAllowedDuets
 
-	print(int(AllowedDuets))</span>
+	print(int(AllowedDuets)) </span>
 
 
 
