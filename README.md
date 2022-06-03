@@ -14,7 +14,8 @@ Some Results
 
 Output3
 -
--![Uploading output3.png…]()
+![output3](https://user-images.githubusercontent.com/96385473/171833011-9ffb2ffb-39c4-4f94-9f62-acd48bb75036.png)
+
 -
 
 Output4
