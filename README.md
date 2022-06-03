@@ -62,8 +62,8 @@ Pseudocode for the Algorithm
 
 	+AllowedDuets = summationFormula(n)-notAllowedDuets
 
-	+print(int(AllowedDuets)) </span>
-	
+	+print(int(AllowedDuets)) 
+	```
 	
 
 
