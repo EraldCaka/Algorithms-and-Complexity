@@ -11,9 +11,7 @@ Important Code Snippets
 
 Examples
 -
---
---
-
+The inputs that were sent to us via email
 
 Output3
 ---
