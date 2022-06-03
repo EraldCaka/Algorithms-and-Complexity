@@ -29,11 +29,12 @@ Pseudocode for the Algorithm
 
 	g=Graph(n)
 
-	for i in range(1,p+1):
+		for i in range(1,p+1):
 
-        g.addEdge(int(list[i][0]),int(list[i][1]))
+        		g.addEdge(int(list[i][0]),int(list[i][1]))
 	
-	end for
+			end for
+			
 
 	cc = g.connectedComponents()
 
@@ -41,19 +42,21 @@ Pseudocode for the Algorithm
 
 	notAllowedDuets = 0
 
-	for x in cc:
+		for x in cc:
 
-        arraySingerPerState.append(len(x))
+        		arraySingerPerState.append(len(x))
 	
-	end for
+			end for
+			
 
-	for y in arraySingerPerState:
+		for y in arraySingerPerState:
 
-        summationFormula(y)
-	
-        notAllowedDuets = notAllowedDuets + summationFormula(y)
+        		summationFormula(y)
 		
-	end for
+        		notAllowedDuets = notAllowedDuets + summationFormula(y)
+		
+			end for
+			
 
 	AllowedDuets = summationFormula(n)-notAllowedDuets
 
