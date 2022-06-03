@@ -62,10 +62,7 @@ Pseudocode for the Algorithm
 
 	print(int(AllowedDuets)) </span>
 	
-	```json
-  	 // code for coloring
-	```
-
+	
 
 
 Examples
