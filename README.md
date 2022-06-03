@@ -10,6 +10,7 @@ Important Code Snippets
 
 
 **Some Examples**
+---
 <hr style="border:2px solid gray">
 
 Output3
