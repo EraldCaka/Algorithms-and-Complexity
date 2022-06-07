@@ -65,7 +65,7 @@ Pseudocode for this Algorithm
 	print(int(AllowedDuets)) 
 
 
-Examples
+Example
 -
 All inputs that were given to us from our professor via Email
 
@@ -74,15 +74,6 @@ Output3
 
 ![output3](https://user-images.githubusercontent.com/96385473/171833011-9ffb2ffb-39c4-4f94-9f62-acd48bb75036.png)
 
-
-Output4
--
-![output4](https://user-images.githubusercontent.com/96385473/171832342-1e1ce98d-fa20-4e55-bcb3-33e315bf41cf.png)
-
-
-Output5
--
-![output5](https://user-images.githubusercontent.com/96385473/171832140-27589112-ffc2-4c1e-83c6-404a2d3e684b.png)
 
 --------
 <strong>Contributors :[Erald Caka](https://github.com/HidekiNatsumi) and [Ervin Balla](https://github.com/ViniCS2001)</strong>
