@@ -94,7 +94,5 @@ if __name__ == "__main__":
 # Algorithms & Complexity
 # Worked by Erald Caka and Ervin Balla
 
-# The implementation of the Graph class, DFS function and connected 
-# component function were retrieved by us from a code created by Abhishek Valsan
-# which can be found at the GeeksforGeeks website at the following link
-# https://www.geeksforgeeks.org/connected-components-in-an-undirected-graph/
+# The implementation of the Graph class, DFS function and connected component function 
+
