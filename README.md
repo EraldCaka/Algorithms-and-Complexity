@@ -10,7 +10,7 @@ Important Code Snippets
 
 
 
-Pseudocode for the Algorithm
+Pseudocode for this Algorithm
 -
 
 	Open file (“filename”) as f
