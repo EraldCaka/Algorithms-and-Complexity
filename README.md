@@ -73,4 +73,4 @@ All inputs that were given to us from our professor via Email
 ![output3](https://user-images.githubusercontent.com/96385473/171833011-9ffb2ffb-39c4-4f94-9f62-acd48bb75036.png)
 
 --------
-<strong>Contributors :[Hideki Natsumi](https://github.com/HidekiNatsumi) and [Ervin Balla](https://github.com/ViniCS2001)</strong>
+<strong>Contributors :[Erald Caka](https://github.com/EraldCaka) and [Ervin Balla](https://github.com/ViniCS2001)</strong>
